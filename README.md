@@ -1,6 +1,7 @@
 # Steganography Project
 
-![Steganography](steganography.png) <!-- Replace steganography.png with an image related to your project -->
+![Steganography](images/Comparison.png) 
+<p align="center">One of this images contain the message: Teddy bear is waiting for you at the front door of belmont hotel!</p>
 
 ## Introduction
 Steganography Project is a Python-based implementation of steganography, which allows you to hide secret messages within image files using the Least Significant Bit (LSB) technique. Steganography is the art of concealing sensitive information within another seemingly innocent medium to avoid detection. This project aims to provide a simple and user-friendly tool for encoding and decoding hidden messages in images.
